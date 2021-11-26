@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://dcadmin:akshay1998@cluster0.weifs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"myjsonsignature",
+    "githubclientid":"56a6bc8972462a8f4060",
+    "githubclientsecret":"9617e6f95b7a0a057a18c1d347d01c881cfe3648"
+}
